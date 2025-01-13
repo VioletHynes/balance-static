@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Black Mage on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/</link><description>Recent content in Black Mage on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2024 02:19:03 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/black-mage/index.xml" rel="self" type="application/rss+xml"/><item><title>Black Mage Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/best-in-slot/</link><pubDate>Sun, 18 Aug 2024 02:19:03 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/best-in-slot/</guid><description/></item><item><title>Black Mage Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/stat-priority/</link><pubDate>Sun, 18 Aug 2024 01:19:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/stat-priority/</guid><description/></item><item><title>Black Mage Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/job-changes/</link><pubDate>Fri, 09 Aug 2024 00:58:57 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/job-changes/</guid><description/></item><item><title>Black Mage FAQ</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/faq/</link><pubDate>Fri, 09 Aug 2024 00:52:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/faq/</guid><description>&lt;h1 id="q-what-is-umbral-soul-used-for">Q: What is Umbral Soul used for?&lt;/h1>
-&lt;p>A: Purely a downtime tool, a better version of Transpose. Lets you build back up to Umbral Ice III + Three Umbral Hearts during downtime, so you can Thunder III -&amp;gt; Fire III when you can hit something again. If you end a fight in Astral Fire, Transpose into UI so you can use Umbral Soul. Do not use Umbral Soul during uptime.&lt;/p></description></item><item><title>Black Mage Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/skills-overview/</link><pubDate>Fri, 09 Aug 2024 00:47:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/skills-overview/</guid><description>&lt;h1 id="actions">Actions&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Black Mage on Balance Guides</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/</link><description>Recent content in Black Mage on Balance Guides</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2024 04:13:25 +0000</lastBuildDate><atom:link href="https://www.thebalanceffxiv.com/jobs/casters/black-mage/index.xml" rel="self" type="application/rss+xml"/><item><title>Black Mage Best in Slot (BiS)</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/best-in-slot/</link><pubDate>Sat, 21 Dec 2024 04:13:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/best-in-slot/</guid><description/></item><item><title>Black Mage Changes</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/job-changes/</link><pubDate>Sat, 21 Dec 2024 04:12:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/job-changes/</guid><description/></item><item><title>Black Mage Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/openers/</link><pubDate>Sat, 21 Dec 2024 04:08:01 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/openers/</guid><description>&lt;h1 id="openers">Openers&lt;/h1>
+&lt;p>Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at zero. If your group pulls earlier, adjust them as necessary. Use the highest tier Potion of Intelligence available.&lt;/p>
+&lt;h2 id="fire-iii-opener">&lt;strong>Fire III Opener&lt;/strong>&lt;/h2>
+&lt;p>
+&lt;div class="md__image">
+ &lt;img id="[354 412 234 352 292 337]" src="https://www.thebalanceffxiv.com/img/jobs/blm/7.1-black-mage-fire-iii-opener.png" onclick="openModal(this.id)" alt="" />
+&lt;/div>
+&lt;/p>
+&lt;p>&lt;br>The standard opener for BLM. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving Ley Lines with the INT pot usage in the opener.&lt;/p></description></item><item><title>Black Mage Skills Overview</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/skills-overview/</link><pubDate>Sat, 21 Dec 2024 04:05:25 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/skills-overview/</guid><description>&lt;h1 id="actions">Actions&lt;/h1>
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -17,7 +24,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[253 474 20 299 432 112]" src="https://xivapi.com//i//000000//000454_hr1.png" onclick="openModal(this.id)" alt="Blizzard" />
+ &lt;img id="[155 230 400 256 104 318]" src="https://xivapi.com//i//000000//000454_hr1.png" onclick="openModal(this.id)" alt="Blizzard" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blizzard&lt;/td>
@@ -31,7 +38,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[210 38 301 197 238 222]" src="https://xivapi.com/i/000000/000451_hr1.png" onclick="openModal(this.id)" alt="Fire" />
+ &lt;img id="[498 318 156 71 219 2]" src="https://xivapi.com/i/000000/000451_hr1.png" onclick="openModal(this.id)" alt="Fire" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fire&lt;/td>
@@ -45,7 +52,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[29 301 6 42 432 469]" src="https://xivapi.com/i/000000/000466_hr1.png" onclick="openModal(this.id)" alt="Transpose" />
+ &lt;img id="[201 317 5 381 332 370]" src="https://xivapi.com/i/000000/000466_hr1.png" onclick="openModal(this.id)" alt="Transpose" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Transpose&lt;/td>
@@ -59,7 +66,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[279 245 203 250 147 51]" src="https://xivapi.com/i/000000/000457_hr1.png" onclick="openModal(this.id)" alt="Thunder" />
+ &lt;img id="[400 488 162 450 441 207]" src="https://xivapi.com/i/000000/000457_hr1.png" onclick="openModal(this.id)" alt="Thunder" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Thunder&lt;/td>
@@ -73,7 +80,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[394 432 378 7 469 216]" src="https://xivapi.com/i/002000/002668_hr1.png" onclick="openModal(this.id)" alt="Blizzard II" />
+ &lt;img id="[5 218 263 49 460 499]" src="https://xivapi.com/i/002000/002668_hr1.png" onclick="openModal(this.id)" alt="Blizzard II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blizzard II&lt;/td>
@@ -87,7 +94,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[177 357 360 293 373 411]" src="https://xivapi.com/i/000000/000462_hr1.png" onclick="openModal(this.id)" alt="Scathe" />
+ &lt;img id="[276 394 244 49 57 103]" src="https://xivapi.com/i/000000/000462_hr1.png" onclick="openModal(this.id)" alt="Scathe" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Scathe&lt;/td>
@@ -101,7 +108,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[166 28 440 481 332 219]" src="https://xivapi.com/i/000000/000452_hr1.png" onclick="openModal(this.id)" alt="Fire II" />
+ &lt;img id="[141 314 256 226 283 240]" src="https://xivapi.com/i/000000/000452_hr1.png" onclick="openModal(this.id)" alt="Fire II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fire II&lt;/td>
@@ -115,7 +122,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[15 294 41 216 468 257]" src="https://xivapi.com/i/000000/000459_hr1.png" onclick="openModal(this.id)" alt="Thunder II" />
+ &lt;img id="[204 496 346 73 164 61]" src="https://xivapi.com/i/000000/000459_hr1.png" onclick="openModal(this.id)" alt="Thunder II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Thunder II&lt;/td>
@@ -129,7 +136,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[228 180 169 181 500 274]" src="https://xivapi.com/i/000000/000463_hr1.png" onclick="openModal(this.id)" alt="Manaward" />
+ &lt;img id="[463 105 306 352 338 420]" src="https://xivapi.com/i/000000/000463_hr1.png" onclick="openModal(this.id)" alt="Manaward" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Manaward&lt;/td>
@@ -143,7 +150,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[453 330 429 117 64 275]" src="https://xivapi.com/i/002000/002651_hr1.png" onclick="openModal(this.id)" alt="ManaFont" />
+ &lt;img id="[269 210 158 277 460 27]" src="https://xivapi.com/i/002000/002651_hr1.png" onclick="openModal(this.id)" alt="ManaFont" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Manafont&lt;/td>
@@ -157,7 +164,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[449 19 335 253 280 252]" src="https://xivapi.com/i/000000/000453_hr1.png" onclick="openModal(this.id)" alt="Fire III" />
+ &lt;img id="[350 252 334 62 336 19]" src="https://xivapi.com/i/000000/000453_hr1.png" onclick="openModal(this.id)" alt="Fire III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fire III&lt;/td>
@@ -171,7 +178,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[114 207 417 202 100 425]" src="https://xivapi.com/i/000000/000456_hr1.png" onclick="openModal(this.id)" alt="Blizzard III" />
+ &lt;img id="[206 472 232 453 254 74]" src="https://xivapi.com/i/000000/000456_hr1.png" onclick="openModal(this.id)" alt="Blizzard III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blizzard III&lt;/td>
@@ -185,7 +192,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[375 281 189 2 33 417]" src="https://xivapi.com/i/002000/002666_hr1.png" onclick="openModal(this.id)" alt="Umbral Soul" />
+ &lt;img id="[1 248 47 16 187 99]" src="https://xivapi.com/i/002000/002666_hr1.png" onclick="openModal(this.id)" alt="Umbral Soul" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Umbral Soul&lt;/td>
@@ -199,7 +206,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[87 141 187 252 337 81]" src="https://xivapi.com/i/002000/002653_hr1.png" onclick="openModal(this.id)" alt="Freeze" />
+ &lt;img id="[457 317 65 103 130 255]" src="https://xivapi.com/i/002000/002653_hr1.png" onclick="openModal(this.id)" alt="Freeze" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Freeze&lt;/td>
@@ -213,7 +220,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[258 141 210 490 296 459]" src="https://xivapi.com/i/000000/000459_hr1.png" onclick="openModal(this.id)" alt="Thunder III" />
+ &lt;img id="[498 486 421 399 84 351]" src="https://xivapi.com/i/000000/000459_hr1.png" onclick="openModal(this.id)" alt="Thunder III" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Thunder III&lt;/td>
@@ -227,7 +234,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[235 321 200 473 144 490]" src="https://xivapi.com/i/000000/000467_hr1.png" onclick="openModal(this.id)" alt="Aetherial Manipulation" />
+ &lt;img id="[263 64 323 385 379 43]" src="https://xivapi.com/i/000000/000467_hr1.png" onclick="openModal(this.id)" alt="Aetherial Manipulation" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Aetherial Manipulation&lt;/td>
@@ -241,21 +248,21 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[169 187 352 338 197 61]" src="https://xivapi.com/i/002000/002652_hr1.png" onclick="openModal(this.id)" alt="Flare" />
+ &lt;img id="[103 233 389 109 199 84]" src="https://xivapi.com/i/002000/002652_hr1.png" onclick="openModal(this.id)" alt="Flare" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flare&lt;/td>
  &lt;td style="text-align: left">50&lt;/td>
  &lt;td style="text-align: left">Spell&lt;/td>
  &lt;td style="text-align: left">All&lt;/td>
- &lt;td style="text-align: left">4s&lt;/td>
+ &lt;td style="text-align: left">3s&lt;/td>
  &lt;td style="text-align: left">2.5s&lt;/td>
  &lt;td style="text-align: left">Deals fire damage to a target and all enemies near it with a potency of 240 for the first enemy, and 30% less for all remaining enemies.&lt;br>Additional Effect: Grants Astral Fire III&lt;br>Duration:15s&lt;br>Additional Effect: Grants 3 stacks of Astral Soul&lt;br>Effect ends when Astral Fire expires.&lt;br>Can only be executed while under the effect of Astral Fire.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[57 191 299 141 161 18]" src="https://xivapi.com/i/002000/002656_hr1.png" onclick="openModal(this.id)" alt="Ley Lines" />
+ &lt;img id="[184 147 414 219 25 9]" src="https://xivapi.com/i/002000/002656_hr1.png" onclick="openModal(this.id)" alt="Ley Lines" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Ley Lines&lt;/td>
@@ -264,12 +271,12 @@
  &lt;td style="text-align: left">-&lt;/td>
  &lt;td style="text-align: left">Instant&lt;/td>
  &lt;td style="text-align: left">120s&lt;/td>
- &lt;td style="text-align: left">Connects with naturally occurring ley lines to create a circle of power which, while standing within it, reduces spell cast time, recast time and auto-attack delay by 15%&lt;/td>
+ &lt;td style="text-align: left">Connects with naturally occurring ley lines to create a circle of power which, while standing within it, reduces spell cast time, recast time and auto-attack delay by 15%.&lt;br>Maximum charges: 2.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[283 355 79 328 424 142]" src="https://xivapi.com/i/002000/002659_hr1.png" onclick="openModal(this.id)" alt="Blizzard IV" />
+ &lt;img id="[455 384 99 419 271 214]" src="https://xivapi.com/i/002000/002659_hr1.png" onclick="openModal(this.id)" alt="Blizzard IV" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Blizzard IV&lt;/td>
@@ -283,7 +290,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[111 202 489 139 363 411]" src="https://xivapi.com/i/002000/002660_hr1.png" onclick="openModal(this.id)" alt="Fire IV" />
+ &lt;img id="[83 63 468 282 395 154]" src="https://xivapi.com/i/002000/002660_hr1.png" onclick="openModal(this.id)" alt="Fire IV" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Fire IV&lt;/td>
@@ -297,7 +304,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[155 11 416 143 183 460]" src="https://xivapi.com/i/002000/002661_hr1.png" onclick="openModal(this.id)" alt="Between the Lines" />
+ &lt;img id="[238 39 263 492 377 171]" src="https://xivapi.com/i/002000/002661_hr1.png" onclick="openModal(this.id)" alt="Between the Lines" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Between the Lines&lt;/td>
@@ -311,7 +318,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[68 323 192 492 70 374]" src="https://xivapi.com/i/002000/002662_hr1.png" onclick="openModal(this.id)" alt="Thunder IV" />
+ &lt;img id="[247 48 36 241 463 51]" src="https://xivapi.com/i/002000/002662_hr1.png" onclick="openModal(this.id)" alt="Thunder IV" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Thunder IV&lt;/td>
@@ -325,7 +332,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[264 448 392 199 118 278]" src="https://xivapi.com/i/002000/002663_hr1.png" onclick="openModal(this.id)" alt="Triplecast" />
+ &lt;img id="[182 224 17 436 408 339]" src="https://xivapi.com/i/002000/002663_hr1.png" onclick="openModal(this.id)" alt="Triplecast" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Triplecast&lt;/td>
@@ -339,7 +346,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[34 230 63 306 291 265]" src="https://xivapi.com/i/002000/002664_hr1.png" onclick="openModal(this.id)" alt="Foul" />
+ &lt;img id="[159 316 497 405 173 91]" src="https://xivapi.com/i/002000/002664_hr1.png" onclick="openModal(this.id)" alt="Foul" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Foul&lt;/td>
@@ -353,7 +360,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[348 437 457 357 197 485]" src="https://xivapi.com/i/002000/002665_hr1.png" onclick="openModal(this.id)" alt="Despair" />
+ &lt;img id="[333 334 324 170 60 87]" src="https://xivapi.com/i/002000/002665_hr1.png" onclick="openModal(this.id)" alt="Despair" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Despair&lt;/td>
@@ -362,12 +369,12 @@
  &lt;td style="text-align: left">All&lt;/td>
  &lt;td style="text-align: left">3s&lt;/td>
  &lt;td style="text-align: left">2.5s&lt;/td>
- &lt;td style="text-align: left">Deals fire damage with a potency of 350.&lt;br>Additional Effect: Grants Astral Fire III&lt;br>Duration: 15s&lt;br>Can only be executed while under the effect of Astral Fire.&lt;/td>
+ &lt;td style="text-align: left">Deals fire damage with a potency of 350.&lt;br>Additional Effect: Grants Astral Fire III&lt;br>Duration: 15s&lt;br>Can only be executed while under the effect of Astral Fire.&lt;br>Instant-cast at level 100.&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[161 25 486 469 229 183]" src="https://xivapi.com/i/002000/002667_hr1.png" onclick="openModal(this.id)" alt="Xenoglossy" />
+ &lt;img id="[150 195 334 478 204 476]" src="https://xivapi.com/i/002000/002667_hr1.png" onclick="openModal(this.id)" alt="Xenoglossy" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Xenoglossy&lt;/td>
@@ -381,7 +388,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[20 47 210 459 99 100]" src="https://xivapi.com/i/002000/002669_hr1.png" onclick="openModal(this.id)" alt="High Fire II" />
+ &lt;img id="[475 235 271 438 106 31]" src="https://xivapi.com/i/002000/002669_hr1.png" onclick="openModal(this.id)" alt="High Fire II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">High Fire II&lt;/td>
@@ -395,7 +402,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[286 349 50 470 351 217]" src="https://xivapi.com/i/002000/002670_hr1.png" onclick="openModal(this.id)" alt="High Blizzard II" />
+ &lt;img id="[92 21 11 385 279 423]" src="https://xivapi.com/i/002000/002670_hr1.png" onclick="openModal(this.id)" alt="High Blizzard II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">High Blizzard II&lt;/td>
@@ -409,7 +416,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[146 351 20 231 107 86]" src="https://xivapi.com/i/002000/002671_hr1.png" onclick="openModal(this.id)" alt="Amplifier" />
+ &lt;img id="[214 439 319 16 307 68]" src="https://xivapi.com/i/002000/002671_hr1.png" onclick="openModal(this.id)" alt="Amplifier" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Amplifier&lt;/td>
@@ -423,7 +430,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[485 18 366 226 384 418]" src="https://xivapi.com/i/002000/002672_hr1.png" onclick="openModal(this.id)" alt="Paradox" />
+ &lt;img id="[137 401 285 428 146 216]" src="https://xivapi.com/i/002000/002672_hr1.png" onclick="openModal(this.id)" alt="Paradox" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Paradox&lt;/td>
@@ -437,7 +444,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[376 493 406 432 476 378]" src="https://xivapi.com/i/002000/002673_hr1.png" onclick="openModal(this.id)" alt="High Thunder" />
+ &lt;img id="[5 116 48 114 232 14]" src="https://xivapi.com/i/002000/002673_hr1.png" onclick="openModal(this.id)" alt="High Thunder" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">High Thunder&lt;/td>
@@ -451,7 +458,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[247 236 455 125 130 69]" src="https://xivapi.com/i/002000/002674_hr1.png" onclick="openModal(this.id)" alt="High Thunder II" />
+ &lt;img id="[77 171 159 366 370 288]" src="https://xivapi.com/i/002000/002674_hr1.png" onclick="openModal(this.id)" alt="High Thunder II" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">High Thunder II&lt;/td>
@@ -465,7 +472,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[293 297 404 323 434 17]" src="https://xivapi.com/i/002000/002150_hr1.png" onclick="openModal(this.id)" alt="Retrace" />
+ &lt;img id="[134 174 411 181 306 376]" src="https://xivapi.com/i/002000/002150_hr1.png" onclick="openModal(this.id)" alt="Retrace" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Retrace&lt;/td>
@@ -479,7 +486,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[201 411 197 25 277 16]" src="https://xivapi.com/i/002000/002151_hr1.png" onclick="openModal(this.id)" alt="Flare Star" />
+ &lt;img id="[281 435 177 1 237 258]" src="https://xivapi.com/i/002000/002151_hr1.png" onclick="openModal(this.id)" alt="Flare Star" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Flare Star&lt;/td>
@@ -510,7 +517,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[97 329 89 188 340 122]" src="https://xivapi.com/i/000000/000861_hr1.png" onclick="openModal(this.id)" alt="Addle" />
+ &lt;img id="[332 116 22 486 209 220]" src="https://xivapi.com/i/000000/000861_hr1.png" onclick="openModal(this.id)" alt="Addle" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Addle&lt;/td>
@@ -524,7 +531,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[229 198 385 363 146 3]" src="https://xivapi.com/i/000000/000871_hr1.png" onclick="openModal(this.id)" alt="Sleep" />
+ &lt;img id="[376 245 451 312 393 404]" src="https://xivapi.com/i/000000/000871_hr1.png" onclick="openModal(this.id)" alt="Sleep" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Sleep&lt;/td>
@@ -538,7 +545,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[305 249 436 427 313 90]" src="https://xivapi.com/i/000000/000865_hr1.png" onclick="openModal(this.id)" alt="Lucid Dreaming" />
+ &lt;img id="[402 218 26 482 292 164]" src="https://xivapi.com/i/000000/000865_hr1.png" onclick="openModal(this.id)" alt="Lucid Dreaming" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Lucid Dreaming&lt;/td>
@@ -552,7 +559,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[204 374 289 340 82 381]" src="https://xivapi.com/i/000000//000866_hr1.png" onclick="openModal(this.id)" alt="Swiftcast" />
+ &lt;img id="[77 53 202 364 197 199]" src="https://xivapi.com/i/000000//000866_hr1.png" onclick="openModal(this.id)" alt="Swiftcast" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Swiftcast&lt;/td>
@@ -566,7 +573,7 @@
  &lt;tr>
  &lt;td style="text-align: left">
 &lt;div class="md__image">
- &lt;img id="[46 448 382 361 379 90]" src="https://xivapi.com/i/000000//000869_hr1.png" onclick="openModal(this.id)" alt="Surecast" />
+ &lt;img id="[417 12 477 488 257 439]" src="https://xivapi.com/i/000000//000869_hr1.png" onclick="openModal(this.id)" alt="Surecast" />
 &lt;/div>
 &lt;/td>
  &lt;td style="text-align: left">Surecast&lt;/td>
@@ -578,18 +585,11 @@
  &lt;td style="text-align: left">Spells can be cast without interruption. Nullifies most incoming knockback and draw-in effects for 6s.&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Black Mage Openers</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/openers/</link><pubDate>Fri, 09 Aug 2024 00:37:42 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/openers/</guid><description>&lt;h1 id="openers">Openers&lt;/h1>
-&lt;p>Openers should put abilities on cooldown, fit strong spells within buff windows, and minimize clipping. All openers assume there is a pull countdown and the boss is pulled at zero. If your group pulls earlier, adjust them as necessary. Use the highest tier Potion of Intelligence available.&lt;/p>
-&lt;h2 id="fire-iii-opener">&lt;strong>Fire III Opener&lt;/strong>&lt;/h2>
-&lt;p>
-&lt;div class="md__image">
- &lt;img id="[351 208 330 465 483 386]" src="https://www.thebalanceffxiv.com/img/jobs/blm/black-mage-fire-iii-opener.png" onclick="openModal(this.id)" alt="" />
-&lt;/div>
-&lt;/p>
-&lt;p>&lt;br>The standard opener for BLM. This opener has a rough bare minimum GCD (recast) of 2.45s, though most people will likely want some more Spell Speed than this for consistency in execution. If running a slower set and/or otherwise having issues with Astral Fire timing out, consider double weaving Ley Lines with the INT pot usage in the opener.&lt;/p></description></item><item><title>Black Mage Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/basic-guide/</link><pubDate>Fri, 09 Aug 2024 00:30:20 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/basic-guide/</guid><description>&lt;h1 id="7x-black-mage-guide">&lt;strong>7.x Black Mage Guide&lt;/strong>&lt;/h1>
+&lt;/table></description></item><item><title>Black Mage Basic Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/basic-guide/</link><pubDate>Sat, 21 Dec 2024 04:01:23 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/basic-guide/</guid><description>&lt;h1 id="7x-black-mage-guide">&lt;strong>7.x Black Mage Guide&lt;/strong>&lt;/h1>
 &lt;p>By: Rika Vanih&lt;/p>
 &lt;h1 id="job-overview">&lt;strong>Job Overview&lt;/strong>&lt;/h1>
-&lt;p>Black Mage is a caster specializing in high, steady personal damage in place of providing party buffs. The job maintains a cyclical flow of expending MP via long, powerful casts in Astral Fire then swapping to refresh MP in Umbral Ice. While the rotation itself is somewhat simple, utilizing its movement tools and the flexibility built into its rotation to their fullest is key to maintaining uptime and maximizing damage as a Black Mage.&lt;/p></description></item><item><title>Black Mage Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/leveling-guide/</link><pubDate>Mon, 22 Jul 2024 01:08:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/leveling-guide/</guid><description>&lt;h1 id="single-target-leveling-rotation">Single Target Leveling Rotation&lt;/h1>
+&lt;p>Black Mage is a caster specializing in high, steady personal damage in place of providing party buffs. The job maintains a cyclical flow of expending MP via long, powerful casts in Astral Fire then swapping to refresh MP in Umbral Ice. While the rotation itself is somewhat simple, utilizing its movement tools and the flexibility built into its rotation to their fullest is key to maintaining uptime and maximizing damage as a Black Mage.&lt;/p></description></item><item><title>Black Mage Stat Priority</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/stat-priority/</link><pubDate>Sun, 18 Aug 2024 01:19:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/stat-priority/</guid><description/></item><item><title>Black Mage FAQ</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/faq/</link><pubDate>Fri, 09 Aug 2024 00:52:50 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/faq/</guid><description>&lt;h1 id="q-what-is-umbral-soul-used-for">Q: What is Umbral Soul used for?&lt;/h1>
+&lt;p>A: Purely a downtime tool, a better version of Transpose. Lets you build back up to Umbral Ice III + Three Umbral Hearts during downtime, so you can Thunder III -&amp;gt; Fire III when you can hit something again. If you end a fight in Astral Fire, Transpose into UI so you can use Umbral Soul. Do not use Umbral Soul during uptime.&lt;/p></description></item><item><title>Black Mage Leveling Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/leveling-guide/</link><pubDate>Mon, 22 Jul 2024 01:08:46 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/leveling-guide/</guid><description>&lt;h1 id="single-target-leveling-rotation">Single Target Leveling Rotation&lt;/h1>
 &lt;p>Always keep your single-target Thunder on the target and only refresh it when it is about to fall off (less than three seconds), unless the target will die soon. This means that while you get a new Thunderhead buff each transition between Astral Fire and Umbral Ice, you will often end up ignoring/overwriting the buff until it is time to refresh the DoT.&lt;/p>
 &lt;h2 id="sub-level-35">Sub Level 35&lt;/h2>
 &lt;p>&lt;strong>Fire spam until low MP &amp;gt; Transpose &amp;gt; Blizzard until max MP &amp;gt; Transpose &amp;gt; repeat&lt;/strong>&lt;/p></description></item><item><title>Black Mage Advanced Guide</title><link>https://www.thebalanceffxiv.com/jobs/casters/black-mage/advanced-guide/</link><pubDate>Thu, 23 May 2024 20:24:51 +0000</pubDate><guid>https://www.thebalanceffxiv.com/jobs/casters/black-mage/advanced-guide/</guid><description>&lt;p>While a lot of the higher-end optimization for BLM was removed with the release of Dawntrail, there are still some elements of nuance and optimization that will be covered in an Advanced Guide in the future. For now, please refer to the &lt;a href="https://www.thebalanceffxiv.com/jobs/casters/black-mage/basic-guide/">main guide&lt;/a>, notably the &lt;a href="https://www.thebalanceffxiv.com/jobs/casters/black-mage/basic-guide/#additional-optimizations">Additional Optimizations&lt;/a> section for some preliminary concepts.&lt;/p></description></item></channel></rss>
